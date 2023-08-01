@@ -5,7 +5,7 @@ Web app simpel digunakan sebagai manajemen uang kas kelas.
 
 # Clone repository and enter the cloned directory
 
-> git clone
+> git clone https://github.com/dimdimah/kas-kelas-laravel9.git
 
 # Install Dependency
 
