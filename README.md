@@ -23,10 +23,10 @@ Web app simpel digunakan sebagai manajemen uang kas kelas.
 
 > php artisan key:generate
 
-# Migrate and seed
+- Migrate and seed
 
 > php artisan migrate:fresh --seed
 
-# Serve the application locally
+- Serve the application locally
 
 > ./serve.sh
