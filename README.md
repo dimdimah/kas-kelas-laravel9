@@ -1,25 +1,25 @@
-Manajemen Uang Kas Kelas
+## Manajemen Uang Kas Kelas
 
 Web app simpel digunakan sebagai manajemen uang kas kelas.
 🛠️ Development
 
-# Clone repository and enter the cloned directory
+- Clone repository and enter the cloned directory
 
 > git clone https://github.com/dimdimah/kas-kelas-laravel9.git
 
-# Install Dependency
+- Install Dependency
 
 > composer install && npm install
 
-# Setup Database
+- Setup Database
 
 > buat database dengan nama `laravel`
 
-# Copy .env
+- Copy .env
 
 > cp .env.example .env
 
-# Generate Laravel Key
+- Generate Laravel Key
 
 > php artisan key:generate
 
