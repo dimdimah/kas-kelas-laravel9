@@ -29,4 +29,4 @@ Web app simpel digunakan sebagai manajemen uang kas kelas.
 
 - Serve the application locally
 
-> ./serve.sh
+> php artisan serve
